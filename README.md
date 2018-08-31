@@ -15,7 +15,7 @@ AIzaSyARHJJDFtwb5wcnURwwJA3FQRrM16PF27c
 
 **豆豆兵频道：**  https://www.youtube.com/channel/UClceV39J1Z_9D4_mHkBZrMg
 ```
- 'DZ' => '阿尔及利亚',
+'DZ' => '阿尔及利亚',
 'AR' => '阿根廷',
 'AE' => '阿拉伯联合酋长国',
 'OM' => '阿曼',
