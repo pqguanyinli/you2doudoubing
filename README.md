@@ -14,7 +14,7 @@ AIzaSyARHJJDFtwb5wcnURwwJA3FQRrM16PF27c
 
 
 **豆豆兵频道：**  https://www.youtube.com/channel/UClceV39J1Z_9D4_mHkBZrMg
-
+```
  'DZ' => '阿尔及利亚',
 'AR' => '阿根廷',
 'AE' => '阿拉伯联合酋长国',
@@ -106,7 +106,7 @@ AIzaSyARHJJDFtwb5wcnURwwJA3FQRrM16PF27c
 'JO' => '约旦',
 'VN' => '越南',
 'CL' => '智利',
-          
+```          
 参考来源：
 
 FORK于：https://github.com/bclswl0827/youtube-mirror-site-bclswl
